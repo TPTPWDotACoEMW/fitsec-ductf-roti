@@ -21,7 +21,7 @@ This version of the ROT13 cipher has D as the first letter of the flag, meaning 
 
 As it turns out, CyberChef automatically skips over whitespace, punctuation, and other symbols when using the Vigenere Cipher, but the flag does not! This meant I had to make a special key that skipped letters where non-letters were in the flag. It was a bit of effort, but I eventually got to this result:
 
-![Finished](Finished.png)
+![Finished](Finished.PNG)
 
 That would have been a lot easier if I knew Python!
 
